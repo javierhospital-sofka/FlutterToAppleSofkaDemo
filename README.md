@@ -1,6 +1,8 @@
 ![](Aspose.Words.4f1d5eaf-c605-4251-8b87-e8d109f5f695.001.png)
 
-# Implementación de extensión de Apple Watch(SwiftUI) en proyecto Flutter Añadir Apple Watch Extension en el proyecto Flutter
+# Implementación de extensión de Apple Watch(SwiftUI) en proyecto Flutter 
+
+## Añadir Apple Watch Extension en el proyecto Flutter
 
 1. Una vez creado el proyecto flutter de manera común se debe abrir el proyecto Xcode para  agregar  la  extensión  del  Apple  Watch.  Para  esto  se  debe  seleccionar File>New>Target. 
 
